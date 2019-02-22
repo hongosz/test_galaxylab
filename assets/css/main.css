@@ -3726,6 +3726,7 @@ input, select, textarea {
 
 		.wrapper.spotlight {
 			/*background-color: #4c5c96;*/
+			background-color: #000000;
 			background-image: url("../../images/m12.png");
 			background-size: contain;
 			background-repeat: no-repeat;
